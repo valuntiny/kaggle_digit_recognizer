@@ -1,1 +1,1 @@
-kaggle competitions download -c digit-recognizer
+kaggle competitions download -c digit-recognizer -p .
